@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I love HTML, CSS, SASS and learning Javascript at the moment. I have had experience with task runners and working with WordPress have also picked up some php skills.
+I love HTML, CSS, SASS and learning Javascript at the moment. I have had experience with task runners and working with WordPress.
 
 *   🌍  I'm based in Coffs Harbour, NSW
 *   ✉️  You can contact me at [hallam.m.d@gmail.com](mailto:hallam.m.d@gmail.com)
-*   🤝  I'm open to collaborating on Interested to learn and assist with projects with positive community outcomes.
+*   🤝  I'm open to collaborating on interesting projects with positive community outcomes.
 *   ⚡  When you're going through hell, keep going!### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
