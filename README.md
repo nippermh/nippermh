@@ -7,7 +7,7 @@ Web Developer and Designer
 I love HTML, CSS, SASS and Javascript.
 
 *   🌍  I'm based in Coffs Harbour, NSW
-*   ✉️  You can contact me at [hallam.m.d@gmail.com](mailto:hallam.m.d@gmail.com)
+*   ✉️  You can contact me via Social Media
 *   🤝  I'm open to collaborating on interesting projects with positive community outcomes.
 *   ⚡  Always learning!
 ### Skills
