@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mark Hallam
 ===================================================================================================================================
 
-Web Developer
+Web Developer and Web Designer
 --------------------------
 
-I love HTML, CSS, SASS and Javascript.
-
-*   🌍  I'm based in Coffs Harbour, NSW
-*   ✉️  You can contact me via Social Media
-*   🤝  I'm open to collaborating on interesting projects with positive community outcomes.
+*   🌍  I'm based in Coffs Harbour, NSW, Australia
+*   ✉️  You can contact me via hallam.m.d@gmail.com
+*   🤝  I'm open to collaborating on interesting projects as a developer or designer.
 *   ⚡  Always learning!
 ### Skills
 <p align="left">
