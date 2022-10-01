@@ -5,7 +5,7 @@ Web Developer
 --------------------------
 
 *   🌍  I'm based in Coffs Harbour, NSW, Australia
-*   ✉️  You can contact me via hallam.m.d@gmail.com
+*   ✉️  You can contact me via Twitter.
 *   🤝  I'm open to collaborating on interesting projects as a developer or designer.
 *   ⚡  Always learning!
 ### Skills
