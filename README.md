@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 --------------------------
 
-*   🌍  I'm based in Coffs Harbour, NSW, Australia
+*   🌍  I'm based in Australia
 *   ✉️  You can contact me via Twitter.
 *   🤝  I'm open to collaborating on interesting projects as a developer or designer.
 *   ⚡  Always learning!
